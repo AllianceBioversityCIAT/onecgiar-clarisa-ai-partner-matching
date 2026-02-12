@@ -36,7 +36,7 @@ clarisa_ai_partners/
 ### Option 1: From the project root (Recommended)
 
 ```bash
-python run_backend.py
+python run.py
 ```
 
 This script:
